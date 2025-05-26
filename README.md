@@ -5,7 +5,7 @@
 
 **Click here to Download Latest Version:**
 
-[![Download Now](./img/dwn.png)](https://github.com/ranujasanmir/PixPick-Android/releases/download/V1.0/PixPick.Downloader_1.0.apk)
+[![Download Now](./img/dwn.png)](https://github.com/ranujasanmir/PixPick-Android/releases/download/V1.0/PixPick_Manga_Downloader_1.0.apk)
 
 ### Important Note
 
@@ -98,7 +98,7 @@ First link is one of image URL in manga chapter. But second one is web site logo
 
 **Keep in mind:**
 
-Usually comic images has width more than 500 pixels in every comic sites. PixPick will automatically skipping images that has width lower than 500 pixels. In next Filtering option you can ajust the pixel limit according to the you likes. But make sure to check width and height in comic images before adding it.
+Usually comic images has width more than 500 pixels in every comic sites. PixPick will automatically skipping images that has width lower than 500 pixels. In next Filtering option you can adjust the pixel limit according to the you likes. But make sure to check width and height in comic images before adding it.
 
 Next is you can select image saving file format. If you select any of available optionPixPick will save all images in that file format.
 
@@ -111,7 +111,7 @@ PixPick allow you to download each chapter without Long-Click -> Save as Image i
 No need to manually visit every page. Just paste all links to download seperated by comma, PixPick will download all chapters you entered!
 
 **Filtering Options:**
-PixPick give filtering options to ajust. So you don't miss any chapter images!
+PixPick give filtering options to adjust. So you don't miss any chapter images!
 
 **Convert image format while downloading:**
 PixPick saves downloaded images in the original format. But no worries. In android, you can open lot of image file formats in default.
