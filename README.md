@@ -66,7 +66,7 @@ You can update PixPick by downloading and installing new version. Maybe in new v
 
 **How to use:**
 
-PixCap UI (In v1.0) :
+PixPick UI (In v1.0) :
 ![PixPick Home](./img/1.png)
 
 ![PixPick Templates](./img/2.png)
