@@ -5,7 +5,7 @@
 
 **Click here to Download Latest Version:**
 
-[![Download Now](./img/dwn.png)](https://github.com/ranujasanmir/PixPick-Android/releases/download/V1.0/PixPick_Manga_Downloader_1.0.apk)
+[![Download Now](./img/dwn.png)](https://github.com/ranujasanmir/PixPick-Android/releases/download/V1.1/PixPick_Manga_Downloader_1.1.apk)
 
 ### Important Note
 
@@ -114,7 +114,7 @@ No need to manually visit every page. Just paste all links to download seperated
 PixPick give filtering options to adjust. So you don't miss any chapter images!
 
 **Convert image format while downloading:**
-PixPick saves downloaded images in the original format. But no worries. In android, you can open lot of image file formats in default.
+Now PixPick saves downloaded images with the format you selected. Ypu can select PNG, JPG or WEBP to save downloaded chapters.
 
 ### Templates
 
