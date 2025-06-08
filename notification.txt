@@ -1,1 +1,1 @@
-Always Remember to use Templates for available sites. Templates are pre build filtering options for some sites. If you choose one, filtering option automatically setting up for you
+Use 'Output Format' for convert original chapter image format to you like format. This will automatically save your downloading chapters with selected format.
